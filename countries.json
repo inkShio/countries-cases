@@ -3287,31 +3287,5 @@
         "short": "",
         "adjective": "",
         "flag": "Scotland.png"
-    },
-    "MRCH": {
-        "cases": {
-            "i": "",
-            "r": "",
-            "d": "",
-            "v": "",
-            "t": "",
-            "p": ""
-        },
-        "short": "",
-        "adjective": "",
-        "flag": "Merchant.png"
-    },
-    "METL": {
-        "cases": {
-            "i": "",
-            "r": "",
-            "d": "",
-            "v": "",
-            "t": "",
-            "p": ""
-        },
-        "short": "",
-        "adjective": "",
-        "flag": "Metal-Account.png"
     }
 }
